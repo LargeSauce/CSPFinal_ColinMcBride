@@ -1,3 +1,3 @@
 # CSPFinal_ColinMcBride
-Laser Guidance System
-Seems simple it won't be.
+Laser Guidance System is dead
+It is time for everything else
